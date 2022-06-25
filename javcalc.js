@@ -1,9 +1,9 @@
 //read user's input
-const num1 = prompt("Enter Num1: ");
+const num1 = parseFloat(prompt("Enter Num1: "));
 //read user's operation
 const operator = prompt("Enter Operation to be used: (+, -, *, /)");
 
-const num2 = prompt("Enter Num2: ");
+const num2 = parseFloat(prompt("Enter Num2: "));
 
 let result = 0;
 
