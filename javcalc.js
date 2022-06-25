@@ -1,6 +1,6 @@
-//read user's input
+//read user input
 const num1 = parseFloat(prompt("Enter Num1: "));
-//read user's operation
+//read user operation
 const operator = prompt("Enter Operation to be used: (+, -, *, /)");
 
 const num2 = parseFloat(prompt("Enter Num2: "));
